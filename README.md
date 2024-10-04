@@ -15,27 +15,27 @@ The goal of this assignment is to implement various CSS animations and transitio
 
 ### Case 2: Rotating Circle Border
 - Implement a transition to rotate a circle's border on hover.
-- [View Implementation](./case2)
+- [View Implementation](./case2/case2.html)
 - [View Example Video](https://www.youtube.com/watch?v=YOUR_CASE2_VIDEO_ID)
 
 ### Case 3: Basic Rotation Animation
 - Create a basic rotation animation as shown in the example video.
-- [View Implementation](./case3)
+- [View Implementation](./case3/case3.html)
 - [View Example Video](https://www.youtube.com/watch?v=5oB5X7IARvQ)
 
 ### Case 4: Water Drop Loader Animation
 - Design an animation for a loader that resembles a water drop.
-- [View Implementation](./case4)
+- [View Implementation](./case4/case4.html)
 - [View Example Video](https://www.youtube.com/watch?v=HjdNIYts2Bk)
 
 ### Case 5: Image Slider Animation
 - Develop an image slider using CSS animations (no buttons or functions required).
-- [View Implementation](./case5)
+- [View Implementation](./case5/case5.html)
 - [View Example Video](https://www.youtube.com/watch?v=YOUR_CASE5_VIDEO_ID)
 
 ### Case 6: Car Animation Scene
 - Recreate the animated scene from the example video using HTML and CSS.
-- [View Implementation](./case6)
+- [View Implementation](./case6/case6.html)
 - [View Example Video](https://www.youtube.com/watch?v=YOUR_CASE6_VIDEO_ID)
 - Resources for this case can be downloaded from the provided link.
 
