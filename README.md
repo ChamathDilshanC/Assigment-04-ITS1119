@@ -10,32 +10,32 @@ The goal of this assignment is to implement various CSS animations and transitio
 
 ### Case 1: Navigation Transition
 - Create a transition effect for navigation menu items.
-- [View Implementation](../case1-navigation.html)
+- [View Implementation](./case1)
 - [View Example Video](https://www.youtube.com/watch?v=XxBGmU2Ewa8)
 
 ### Case 2: Rotating Circle Border
 - Implement a transition to rotate a circle's border on hover.
-- [View Implementation](../case2-circle-border.html)
+- [View Implementation](./case2)
 - [View Example Video](https://www.youtube.com/watch?v=YOUR_CASE2_VIDEO_ID)
 
 ### Case 3: Basic Rotation Animation
 - Create a basic rotation animation as shown in the example video.
-- [View Implementation](./case3-rotation.html)
+- [View Implementation](./case3)
 - [View Example Video](https://www.youtube.com/watch?v=5oB5X7IARvQ)
 
 ### Case 4: Water Drop Loader Animation
 - Design an animation for a loader that resembles a water drop.
-- [View Implementation](./case4-water-drop.html)
+- [View Implementation](./case4)
 - [View Example Video](https://www.youtube.com/watch?v=HjdNIYts2Bk)
 
 ### Case 5: Image Slider Animation
 - Develop an image slider using CSS animations (no buttons or functions required).
-- [View Implementation](./case5-image-slider.html)
+- [View Implementation](./case5)
 - [View Example Video](https://www.youtube.com/watch?v=YOUR_CASE5_VIDEO_ID)
 
 ### Case 6: Car Animation Scene
 - Recreate the animated scene from the example video using HTML and CSS.
-- [View Implementation](./case6-car-animation.html)
+- [View Implementation](./case6)
 - [View Example Video](https://www.youtube.com/watch?v=YOUR_CASE6_VIDEO_ID)
 - Resources for this case can be downloaded from the provided link.
 
@@ -71,6 +71,8 @@ css-animations-assignment/
 ```
 
 ## Acknowledgments
+
+- Institute of Software Engineering and Java for providing the assignment and resources.
 - Example videos for each case, which served as inspiration and guidance.
 
 ---
