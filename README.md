@@ -10,12 +10,12 @@ The goal of this assignment is to implement various CSS animations and transitio
 
 ### Case 1: Navigation Transition
 - Create a transition effect for navigation menu items.
-- [View Implementation](./case1-navigation.html)
+- [View Implementation](../case1-navigation.html)
 - [View Example Video](https://www.youtube.com/watch?v=XxBGmU2Ewa8)
 
 ### Case 2: Rotating Circle Border
 - Implement a transition to rotate a circle's border on hover.
-- [View Implementation](./case2-circle-border.html)
+- [View Implementation](../case2-circle-border.html)
 - [View Example Video](https://www.youtube.com/watch?v=YOUR_CASE2_VIDEO_ID)
 
 ### Case 3: Basic Rotation Animation
