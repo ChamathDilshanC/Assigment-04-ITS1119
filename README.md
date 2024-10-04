@@ -71,8 +71,6 @@ css-animations-assignment/
 ```
 
 ## Acknowledgments
-
-- Institute of Software Engineering and Java for providing the assignment and resources.
 - Example videos for each case, which served as inspiration and guidance.
 
 ---
