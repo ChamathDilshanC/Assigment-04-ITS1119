@@ -15,7 +15,7 @@ The goal of this assignment is to implement various CSS animations and transitio
 
 ### Case 2: Rotating Circle Border
 - Implement a transition to rotate a circle's border on hover.
-- [View Implementation](./case2/case2.html)
+- [View Implementation](Case2)
 - [View Example Video](https://www.youtube.com/watch?v=YOUR_CASE2_VIDEO_ID)
 
 ### Case 3: Basic Rotation Animation
